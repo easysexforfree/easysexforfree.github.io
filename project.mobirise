@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Home",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -38,7 +38,7 @@
     "noImageResize": ""
   },
   "pages": {
-    "index.html": {
+    "page1.html": {
       "settings": {
         "main": true,
         "title": "easysexforfree",
@@ -128,9 +128,9 @@
         }
       ]
     },
-    "page1.html": {
+    "index.html": {
       "settings": {
-        "meta_descr": "Web Page Builder Description",
+        "meta_descr": "This is one of the newest portals for getting to know the other person!",
         "title": "easysexforfree",
         "order": 1
       },
